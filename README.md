@@ -1,2 +1,2 @@
-# senac
-Repositório com projetos de desenvolvimento acadêmico.
+Projeto do Senac (Disciplina do Fernando)
+
