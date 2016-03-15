@@ -1,2 +1,2 @@
-Projeto do Senac(Disciplina do Fernando)# senac
+Projeto do Senac (Disciplina do Fernando)
 Repositório com projetos de desenvolvimento acadêmico.
